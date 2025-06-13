@@ -9,7 +9,7 @@
 - d. Merging the training datasets
 
 ## Test data processing:
-- Same steps repeated as above...
+- Same steps repeated as above but then for `subject_test`, `X_test` and `y_test`...
 
 ## 5 Steps to Tidy Dataset
 
@@ -26,4 +26,4 @@
    _Functions used: `base::sub()`_
 
 5. **Create** a second tidy data set with the average of each variable for each activity and each subject
-   _Functions used: `dplyr::group_by(), `dplyr::summarize()` and `dplyr:across()`_
+   _Functions used: `dplyr::group_by()`, `dplyr::summarize()` and `dplyr:across()`_
