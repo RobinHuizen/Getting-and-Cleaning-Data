@@ -215,9 +215,21 @@ Equivalent to fBodyGyroJerkMag-mean()
 ### FrequencyBodyGyroscopeJerkMagnitudeStd  
 Equivalent to fBodyGyroJerkMag-std()
 
+### FrequencyBodyAccelerationJerkMagnitudeMean
+Equivalent to fBodyBodyAccMag-mean()  
+
 ### FrequencyBodyAccelerationJerkMagnitudeStd
+Equivalent to fBodyBodyAccMag-std()  
+
 ### FrequencyBodyGyroscopeMagnitudeMean
+Equivalent to fBodyBodyGyroMag-mean()  
+
 ### FrequencyBodyGyroscopeMagnitudeStd
-### FrequencyBodyGyroscopeJerkMagnitudeMean
-### FrequencyBodyGyroscopeJerkMagnitudeStd
+Equivalent to fBodyBodyGyroMag-std()
+
+### FrequencyBodyGyroscopeJerkMagnitudeMean  
+Equivalent to fBodyBodyGyroJerkMag-mean()
+
+### FrequencyBodyGyroscopeJerkMagnitudeStd  
+Equivalent to fBodyBodyGyroJerkMag-std()
 
