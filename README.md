@@ -24,4 +24,4 @@
 
 4. **Label dataset with descriptive variable names**  
    _Function used: `base::sub()`_
-_by(), dplyr::summarize() and dplyr:across()
+_by(), _`dplyr::summarize()`_ and _`dplyr:across()`_
