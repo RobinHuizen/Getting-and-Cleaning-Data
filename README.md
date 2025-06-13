@@ -23,5 +23,4 @@
    _Function used: `dplyr::left_join()`_
 
 4. **Label dataset with descriptive variable names**  
-   _Function used: `base::sub()`_
-_by(), _`dplyr::summarize()`_ and _`dplyr:across()`_
+   _Function used: `base::sub()`group_by(), `dplyr::summarize()` and `dplyr:across()`_
