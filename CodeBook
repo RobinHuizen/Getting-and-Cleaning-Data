@@ -2,7 +2,7 @@
 
 ### "subject_id"                                
 ### "activity_label"                            
- [3] "TimeBodyAccelerationMeanX"                 
+### "TimeBodyAccelerationMeanX"                 
  [4] "TimeBodyAccelerationMeanY"                 
  [5] "TimeBodyAccelerationMeanZ"                 
  [6] "TimeBodyAccelerationStdX"                  
