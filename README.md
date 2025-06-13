@@ -25,5 +25,5 @@
 4. **Label** dataset with descriptive variable names  
    _Functions used: `base::sub()`_
 
-5. **Create** a second tidy data set with the average of each variable for each activity and each subject
+5. **Create** a second tidy data set with the average of each variable for each activity and each subject  
    _Functions used: `dplyr::group_by()`, `dplyr::summarize()` and `dplyr:across()`_
