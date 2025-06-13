@@ -101,7 +101,7 @@ names(df)[3:68] <- sub("Mag", "Magnitude", names(df)[3:68])
 names(df)[3:68] <- sub("BodyBody", "Body", names(df)[3:68])
 
 ##########################################################################################
-## 5.From the data set in step 4, creates a second, independent tidy data set with the  ##
+## 5. From the data set in step 4, create a second, independent tidy data set with the  ##
 ## average of each variable for each activity and each subject.                         ##
 ##########################################################################################
 
